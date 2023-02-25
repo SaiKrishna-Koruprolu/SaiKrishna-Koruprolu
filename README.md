@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+This is Sai Krishna...
 
-- 🌱 Tech enthusiast, currently pursuing masters in Applied Computer science @nwmostate
+- 🌱 I am a Tech enthusiast, currently pursuing masters in Applied Computer science @nwmostate
 - 📫 How to reach me: https://www.linkedin.com/in/koruprolu-sai-krishna
 
 
